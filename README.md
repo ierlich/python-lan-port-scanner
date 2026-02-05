@@ -77,7 +77,8 @@ It then:
 
 This project was built as part of my cybersecurity learning journey, through self-practice and full understanding of each component.  
 It serves as a foundation for more advanced security tools I intend to develop.  
-**The code itself was written by ChatGPT based on my instructions and close guidance.**
+**This project was developed as part of hands-on cybersecurity practice, with a strong focus on understanding each component and its practical implications.
+.**
 
 ---
 
